@@ -6,7 +6,7 @@ main.accio{
 	background-color: #000000;
 }
 p.hello-accio {
-	text-color: #ffffff;
+	color: #ffffff;
 	padding: 10px;
-	left-margin: 32px;
+	margin-left: 32px;
 }
